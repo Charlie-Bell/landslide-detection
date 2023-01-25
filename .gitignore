@@ -1,0 +1,4 @@
+runs/
+catboost_info/
+.ipynb_checkpoints/
+models/nn_submission.pth
